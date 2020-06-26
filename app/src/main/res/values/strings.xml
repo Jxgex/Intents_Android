@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="BtnPaginaWeb">Abrir pagína web</string>
+    <string name="BtnLLamar">LLamar por telefono</string>
+    <string name="BtnGoogle">Google Maps</string>
+    <string name="BtnFoto">Tomar Foto</string>
+    <string name="BtnEnviarCorreo">Envíar correo</string>
+</resources>
